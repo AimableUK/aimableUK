@@ -10,9 +10,7 @@
 
 ## SUMMARY
 
-- Full-Stack Developer passionate about building high-performance, user-friendly web applications
-and familiar with DevOps practices. Strong problem-solving skills, proactive in tackling
-technical challenges, and committed to continuously learning modern web technologies
+##### Full-Stack Developer passionate about building high-performance, user-friendly web applications and familiar with DevOps practices. Strong problem-solving skills, proactive in tackling technical challenges, and committed to continuously learning modern web technologies
 
 
 ## SKILLS
