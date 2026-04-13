@@ -24,14 +24,11 @@ committed to continuously learning modern technologies
 LANGUAGES:
 Python | JavaScript | TypeScript
 
-FRONTEND:
-Next.js | Tailwind CSS | MUI | ShadCN
-
-UI/UX:
-Figma
+FRONTEND & UI/UX:
+Next.js | Tailwind CSS | MUI | ShadCN | Figma
 
 BACKEND:
-Node.js | Express.js | Django | Socket.io
+Node.js | Express.js | Django | Socket.io | BullMQ
 
 DATABASES:
 Redis | MongoDB | PostgreSQL | MySQL | Oracle (PL/SQL)
