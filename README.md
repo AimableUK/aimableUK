@@ -28,7 +28,7 @@ FRONTEND & UI/UX:
 Next.js | Tailwind CSS | MUI | ShadCN | Figma
 
 BACKEND:
-Node.js | Express.js | Django | Socket.io | BullMQ
+Node.js | Express.js | Django | Gin | Socket.io | BullMQ
 
 DATABASES:
 Redis | MongoDB | PostgreSQL | MySQL | Oracle (PL/SQL)
