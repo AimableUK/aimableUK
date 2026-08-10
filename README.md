@@ -22,7 +22,7 @@ committed to continuously learning modern technologies
 
 ```
 LANGUAGES:
-Python | JavaScript | TypeScript
+Python | JavaScript | TypeScript | Go
 
 FRONTEND & UI/UX:
 Next.js | Tailwind CSS | MUI | ShadCN | Figma
@@ -35,6 +35,9 @@ Redis | MongoDB | PostgreSQL | MySQL | Oracle (PL/SQL)
 
 INFRASTRUCTURE / DEVOPS:
 Docker | GitHub Actions | AWS | GCP | CI/CD
+
+Data & AI:
+Machine Learning
 
 OTHER:
 BullMQ | System Design | Git
