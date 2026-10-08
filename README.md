@@ -1,9 +1,10 @@
-https://private-user-images.githubusercontent.com/54446750/350797848-ae1b468f-0902-4437-a27d-76a08c6edc21.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTE0NzQ0NTIsIm5iZiI6MTc5MTQ3NDE1MiwicGF0aCI6Ii81NDQ0Njc1MC8zNTA3OTc4NDgtYWUxYjQ2OGYtMDkwMi00NDM3LWEyN2QtNzZhMDhjNmVkYzIxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDA4VDE1NDIzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThjOGZiMjcyNjI5MjA4MjBlYjYyN2I0NzYzYzQyZThhYzU4YWQ2YzcwYzA4ZWE5NjVkYmMwZDM2NjUxNDNlMGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.Y1AUF7e_5vDWpq7ozK2AHftgt8TOQaoKYyzlbjLd2EE
-
-
 ## Hi there 👋
 
 # I'm UKOBIZABA Aimable
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ae1b468f-0902-4437-a27d-76a08c6edc21" width="300" />
+</div>
 
 #### A FullStack Software Engineer in Web Technologies
 ------
